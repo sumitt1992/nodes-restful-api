@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "dependencies": {
     "restify": "latest",
-    "mongoose": "3.8.8"
+    "mongoose": "3.8.8" //database version
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=0.10.0"//node version
   }
 }
